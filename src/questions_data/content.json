@@ -1,0 +1,108 @@
+{
+    "groups": [
+        {
+            "name": "webpage_builder",
+            "label": "Création de pages web",
+            "options": [
+                {
+                    "name": "webpage_builder_1",
+                    "label": "Création de pages de base avec des modèles préconstruits.",
+                    "value": 1
+                },
+                {
+                    "name": "webpage_builder_2",
+                    "label": "Personnalisation avancée des pages web, A/B testing sur les pages de destination.",
+                    "value": 2
+                },
+                {
+                    "name": "webpage_builder_3",
+                    "label": "Création de contenu dynamique, gestion multi-langue et multi-domaine.",
+                    "value": 3
+                },
+                {
+                    "name": "webpage_builder_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "seo_optimization",
+            "label": "Optimisation SEO",
+            "options": [
+                {
+                    "name": "seo_optimization_1",
+                    "label": "Outils SEO basiques avec suggestions de mots-clés.",
+                    "value": 1
+                },
+                {
+                    "name": "seo_optimization_2",
+                    "label": "Optimisation avancée du SEO avec recommandations basées sur les performances.",
+                    "value": 2
+                },
+                {
+                    "name": "seo_optimization_3",
+                    "label": "Outils SEO intégrés avec gestion multi-site et analyse approfondie du SEO.",
+                    "value": 3
+                },
+                {
+                    "name": "seo_optimization_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "content_management",
+            "label": "Personnalisation du contenu",
+            "options": [
+                {
+                    "name": "content_management_1",
+                    "label": "Personnalisation basique des pages web avec un éditeur de contenu simple.",
+                    "value": 1
+                },
+                {
+                    "name": "content_management_2",
+                    "label": "Personnalisation avancée basée sur les segments d’audience.",
+                    "value": 2
+                },
+                {
+                    "name": "content_management_3",
+                    "label": "Contenu dynamique personnalisé pour chaque visiteur en fonction des données CRM et comportements.",
+                    "value": 3
+                },
+                {
+                    "name": "content_management_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "website_performance_monitoring",
+            "label": "Suivi des performances des sites web",
+            "options": [
+                {
+                    "name": "website_performance_monitoring_1",
+                    "label": "Rapports de base sur les performances du site.",
+                    "value": 1
+                },
+                {
+                    "name": "website_performance_monitoring_2",
+                    "label": "Analyse des comportements des utilisateurs, cartes thermiques.",
+                    "value": 2
+                },
+                {
+                    "name": "website_performance_monitoring_3",
+                    "label": "Rapports détaillés multi-domaine, analyses approfondies avec segmentation des utilisateurs.",
+                    "value": 3
+                },
+                {
+                    "name": "website_performance_monitoring_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        }
+    ]
+}

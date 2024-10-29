@@ -1,0 +1,73 @@
+{
+    "groups": [{
+        "name": "data_sync",
+        "label": "Synchronisation des données",
+        "options":[{
+            "name": "data_sync_1",
+            "label": "Synchronisation simple des données entre HubSpot et d'autres outils via des intégrations préétablies.",
+            "value": 1
+        },{
+            "name": "data_sync_2",
+            "label": "Synchronisation bidirectionnelle en temps réel avec nettoyage des données.",
+            "value": 2
+        },{
+            "name": "data_sync_3",
+            "label": "Synchronisation avancée et personnalisée entre plusieurs systèmes avec des règles spécifiques de gestion des données.",
+            "value": 3
+        },{
+            "name": "data_sync_4",
+            "label": "Aucun",
+            "value": 4
+        }]
+    },{
+        "name": "intern_tasks_automation",
+        "label": "Automatisation des tâches internes",
+        "options":[
+            {
+                "name": "intern_tasks_automation_1",
+                "label": "Automatisation de tâches manuelles simples.",
+                "value": 1
+            },
+            {
+                "name": "intern_tasks_automation_2",
+                "label": "Automatisation des processus métier internes avec workflows conditionnels.",
+                "value": 2
+            },
+            {
+                "name": "intern_tasks_automation_3",
+                "label": "Automatisation avancée avec gestion des permissions et des règles spécifiques à chaque département.",
+                "value": 3
+            },
+            {
+                "name": "intern_tasks_automation_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    },{
+        "name" : "data_management",
+        "label": "Gestion des données",
+        "options": [
+            {
+                "name": "data_management_1",
+                "label": "Import/export de données basiques.",
+                "value": 1
+            },
+            {
+                "name": "data_management_2",
+                "label": "Outils de gestion des données, validation et mise à jour automatique.",
+                "value": 2
+            },
+            {
+                "name": "data_management_3",
+                "label": "Outils avancés de gestion des données, règles complexes de nettoyage des données et déduplication.",
+                "value": 3
+            },
+            {
+                "name": "data_management_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    }]
+}

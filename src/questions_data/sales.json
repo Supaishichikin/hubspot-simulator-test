@@ -1,0 +1,104 @@
+{
+    "groups": [{
+        "name": "opportunities",
+        "label": "Gestion des opportunités commerciales",
+        "options": [
+            {
+                "name":"opportunities_1",
+                "label": "Pipeline de ventes simple, gestion des contacts et des opportunités.",
+                "value": 1
+            },
+            {
+                "name":"opportunities_2",
+                "label": "Pipelines personnalisés, automatisation des tâches liées à la gestion des opportunités.",
+                "value": 2
+            },
+            {
+                "name":"opportunities_3",
+                "label": "Gestion de pipelines multiples avec automatisation complexe et personnalisation poussée des workflows de vente.",
+                "value": 3
+            },
+            {
+                "name":"opportunities_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    },{
+        "name" : "tasks_manager_and_automations",
+        "label": "Suivi des tâches et automatisation",
+        "options":[
+            {
+                "name":"tasks_manager_and_automations_1",
+                "label": "Gestion manuelle des tâches de vente.",
+                "value": 1
+            },
+            {
+                "name":"tasks_manager_and_automations_2",
+                "label": "Automatisation des tâches répétitives, alertes automatiques.",
+                "value": 2
+            },
+            {
+                "name":"tasks_manager_and_automations_3",
+                "label": "Automatisation complexe et personnalisée, avec des tâches conditionnelles en fonction de la progression de la vente.",
+                "value": 3
+            },
+            {
+                "name":"tasks_manager_and_automations_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    },{
+        "name" : "calls_and_meetings",
+        "label": "Appels et réunions",
+        "options":[
+            {
+                "name":"calls_and_meetings_1",
+                "label": "Prise de rendez-vous et appels enregistrés de manière manuelle.",
+                "value": 1
+            },
+            {
+                "name":"calls_and_meetings_2",
+                "label": "Automatisation des prises de rendez-vous avec intégration du calendrier, suivi des appels.",
+                "value": 2
+                
+            },
+            {
+                "name":"calls_and_meetings_3",
+                "label": "Personnalisation avancée des scripts d'appels, suivi et analyse des performances des réunions.",
+                "value": 3
+            },
+            {
+                "name":"calls_and_meetings_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    },{
+        "name" : "sales_dashboard_and_reports",
+        "label": "Rapports et tableaux de bord de ventes",
+        "options":[
+            {
+                "name":"sales_dashboard_and_reports_1",
+                "label": "Rapports de base sur les performances des ventes.",
+                "value": 1
+            },
+            {
+                "name":"sales_dashboard_and_reports_2",
+                "label": "Rapports personnalisés avec des KPIs de vente avancés.",
+                "value": 2
+            },
+            {
+                "name":"sales_dashboard_and_reports_3",
+                "label": "Rapports multi-pipelines, analyse prédictive des ventes, tableaux de bord complexes avec segmentation.",
+                "value": 3
+            },
+            {
+                "name":"sales_dashboard_and_reports_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    }]
+}

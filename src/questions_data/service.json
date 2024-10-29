@@ -1,0 +1,108 @@
+{
+    "groups": [
+        {
+            "name": "ticket_management",
+            "label": "Gestion des tickets",
+            "options": [
+                {
+                    "name": "ticket_management_1",
+                    "label": "Création et gestion manuelle des tickets.",
+                    "value": 1
+                },
+                {
+                    "name": "ticket_management_2",
+                    "label": "Automatisation des tickets avec priorisation basée sur les règles définies.",
+                    "value": 2
+                },
+                {
+                    "name": "ticket_management_3",
+                    "label": "Gestion avancée des tickets avec routage personnalisé et automatisation complexe.",
+                    "value": 3
+                },
+                {
+                    "name": "ticket_management_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "customer_satisfaction",
+            "label": "Satisfaction client (NPS)",
+            "options": [
+                {
+                    "name": "customer_satisfaction_1",
+                    "label": "Enquêtes de satisfaction simples envoyées manuellement.",
+                    "value": 1
+                },
+                {
+                    "name": "customer_satisfaction_2",
+                    "label": "Automatisation des enquêtes NPS avec suivi des résultats en temps réel.",
+                    "value": 2
+                },
+                {
+                    "name": "customer_satisfaction_3",
+                    "label": "Analyse approfondie de la satisfaction client avec personnalisation des enquêtes en fonction des segments.",
+                    "value": 3
+                },
+                {
+                    "name": "customer_satisfaction_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "base_knowledge",
+            "label": "Base de connaissances",
+            "options": [
+                {
+                    "name": "base_knowledge_1",
+                    "label": "Base de connaissances simple avec articles basiques.",
+                    "value": 1
+                },
+                {
+                    "name": "base_knowledge_2",
+                    "label": "Gestion et optimisation de la base de connaissances avec recommandations intelligentes.",
+                    "value": 2
+                },
+                {
+                    "name": "base_knowledge_3",
+                    "label": "Gestion multi-langues et personnalisation des articles en fonction des utilisateurs.",
+                    "value": 3
+                },
+                {
+                    "name": "base_knowledge_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "chats_and_bots",
+            "label": "Chat en direct et bots",
+            "options": [
+                {
+                    "name": "chats_and_bots_1",
+                    "label": "Chat en direct basique avec réponse manuelle.",
+                    "value": 1
+                },
+                {
+                    "name": "chats_and_bots_2",
+                    "label": "Automatisation des réponses avec bots intelligents.",
+                    "value": 2
+                },
+                {
+                    "name": "chats_and_bots_3",
+                    "label": "Chatbots personnalisés avec des réponses basées sur les données CRM et les actions précédentes des utilisateurs.",
+                    "value": 3
+                },
+                {
+                    "name": "chats_and_bots_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        }
+    ]
+}

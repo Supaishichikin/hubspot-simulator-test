@@ -1,0 +1,109 @@
+{
+    "groups": [
+        {
+            "name": "company_size",
+            "label": "Taille de l'entreprise",
+            "options":[
+                {
+                    "name": "company_size_1",
+                    "label": "Petite entreprise (1-10 employés)",
+                    "value": 1
+                },
+                {
+                    "name": "company_size_2",
+                    "label": "Entreprise de taille moyenne (11-50 employés)",
+                    "value": 2
+                },
+                {
+                    "name": "company_size_3",
+                    "label": "Grande entreprise (plus de 50 employés)",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "name": "mensual_budget",
+            "label": "Budget mensuel",
+            "options": [
+                {
+                    "name": "mensual_budget_1",
+                    "label": "Moins de 1000€/mois",
+                    "value": 1
+                },
+                {
+                    "name": "mensual_budget_2",
+                    "label": "1000-3000€/mois",
+                    "value": 2
+                },
+                {
+                    "name": "mensual_budget_3",
+                    "label": "3000€ et plus par mois",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "name": "analytics_features",
+            "label": "Fonctionnalités analytiques",
+            "options": [
+                {
+                    "name": "analytics_features_1",
+                    "label": "Analyse simple (rapports basiques sur l'engagement et la performance des campagnes)",
+                    "value": 1
+                },
+                {
+                    "name": "analytics_features_2",
+                    "label": "Rapports personnalisés et analyses approfondies (ex. analyse du ROI, rapports sur plusieurs canaux)",
+                    "value": 2
+                },
+                {
+                    "name": "analytics_features_3",
+                    "label": "Analyse de grande envergure (ex. analyses personnalisées, data warehousing, intégration avec d’autres outils analytiques)",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "name": "scalability_and_growth",
+            "label": "Scalabilité et croissance anticipée",
+            "options": [
+                {
+                    "name": "scalability_and_growth_1",
+                    "label": "Croissance lente ou stable",
+                    "value": 1
+                },
+                {
+                    "name": "scalability_and_growth_2",
+                    "label": "Croissance rapide avec besoin d'outils flexibles",
+                    "value": 2
+                },
+                {
+                    "name": "scalability_and_growth_3",
+                    "label": "Croissance massive avec besoin d'intégration de multiples départements et solutions",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "name": "integration_level",
+            "label": "Niveau d’intégration avec d’autres outils",
+            "options": [
+                {
+                    "name": "integration_level_1",
+                    "label": "Peu d'intégrations nécessaires",
+                    "value": 1
+                },
+                {
+                    "name": "integration_level_2",
+                    "label": "Intégrations multiples avec d'autres systèmes (webinar, téléphonie, e-commerce, outils marketing, ERP, etc.)",
+                    "value": 2
+                },
+                {
+                    "name": "integration_level_3",
+                    "label": "Intégrations complexes (API personnalisées, synchronisation de données, gestion de données multi-systèmes)",
+                    "value": 3
+                }
+            ]
+        }
+    ]
+}
