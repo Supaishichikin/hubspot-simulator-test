@@ -13,10 +13,6 @@ export default function HubspotEmailInput({setCompleted}){
     const portalId = process.env.REACT_APP_HUBSPOT_PORTAL_ID;
     const formId = process.env.REACT_APP_HUBSPOT_FORM_ID;
 
-    console.log(process.env)
-    console.log(portalId, "portalId"); // Should log the portal ID
-    console.log(formId, "formId");     // Should log the form ID
-
 
     useEffect(() => {
         // Crée le script et l'injecte dans la page
