@@ -1,0 +1,56 @@
+{
+    "groups": [
+        {
+            "name": "transaction_management",
+            "label": "Gestion des transactions",
+            "options": [
+                {
+                    "name": "transaction_management_1",
+                    "label": "Création de devis simples et gestion des paiements basiques.",
+                    "value": 1
+                },
+                {
+                    "name": "transaction_management_2",
+                    "label": "Automatisation des processus de paiement, création de pipelines spécifiques pour les transactions.",
+                    "value": 2
+                },
+                {
+                    "name": "transaction_management_3",
+                    "label": "Intégration avancée des paiements et gestion des transactions complexes avec automatisation des relances et analyses prédictives.",
+                    "value": 3
+                },
+                {
+                    "name": "transaction_management_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "name": "e_commerce",
+            "label": "Integration e-commerce",
+            "options": [
+                {
+                    "name": "e_commerce_1",
+                    "label": "Intégration de base avec des solutions e-commerce (ex. Shopify).",
+                    "value": 1
+                },
+                {
+                    "name": "e_commerce_2",
+                    "label": "Synchronisation des données e-commerce avec le CRM et automatisation des workflows basés sur les achats.",
+                    "value": 2
+                },
+                {
+                    "name": "e_commerce_3",
+                    "label": "Intégration avancée avec automatisation complète des processus e-commerce et suivi des comportements d'achat.",
+                    "value": 3
+                },
+                {
+                    "name": "e_commerce_4",
+                    "label": "Aucun",
+                    "value": 4
+                }
+            ]
+        }
+    ]
+}

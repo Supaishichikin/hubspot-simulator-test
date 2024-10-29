@@ -1,0 +1,120 @@
+{
+    "groups": [{
+        "name": "email_marketing",
+        "label": "Email Marketing",
+        "options": [{
+                "name": "email_marketing_1",
+                "label": "Envoi d'emails marketing simples, segmentation de base.",
+                "value": 1
+            },
+            {
+                "name": "email_marketing_2",
+                "label": "Automatisation des emails, tests A/B, personnalisation des emails basés sur les actions des contacts.",
+                "value": 2
+            },
+            {
+                "name": "email_marketing_3",
+                "label": "Automatisation avancée avec des segments dynamiques, personnalisation poussée basée sur les attributs comportementaux.",
+                "value": 3
+            },
+            {
+                "name": "email_marketing_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "name": "automations",
+        "label": "Automations (workflows)",
+        "options": [{
+                "name": "automations_1",
+                "label": "Automatisation de base des emails de suivi.",
+                "value": 1
+            },
+            {
+                "name": "automations_2",
+                "label": "Automatisation avancée des campagnes marketing, segmentation dynamique, gestion des leads.",
+                "value": 2
+            },
+            {
+                "name": "automations_3",
+                "label": "Workflows complexes, automatisation conditionnelle et hiérarchisation des workflows.",
+                "value": 3
+            },
+            {
+                "name": "automations_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+
+    },{
+        "name": "lead_scoring",
+        "label": "Lead Scoring",
+        "options": [{
+                "name": "lead_scoring_1",
+                "label": "Lead scoring prédictif basé sur les actions des utilisateurs.",
+                "value": 1
+            },
+            {
+                "name": "lead_scoring_2",
+                "label": "Lead scoring avancé, intégration avec d'autres critères d'analyse.",
+                "value": 2
+            },
+            {
+                "name": "lead_scoring_3",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    },{
+        "name": "social media advertising",
+        "label": "Publicités sur les réseaux sociaux",
+        "options": [{
+                "name": "social_media_advertising_1",
+                "label": "Gestion des publicités Facebook, Instagram et Google.",
+                "value": 1
+            },
+            {
+                "name": "social_media_advertising_2",
+                "label": "Suivi et optimisation des campagnes publicitaires, intégration CRM pour des annonces ciblées.",
+                "value": 2
+            },
+            {
+                "name": "social_media_advertising_3",
+                "label": "Personnalisation des publicités basées sur des segments complexes et audiences look-alike.",
+                "value": 3
+            },
+            {
+                "name": "social_media_advertising_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    }, {
+        "name": "audience_segmentation",
+        "label": "Segmentation de l'audience",
+        "options": [{
+                "name": "audience_segmentation_1",
+                "label": "Segmentation de base manuelle.",
+                "value": 1
+            },
+            {
+                "name": "audience_segmentation_2",
+                "label": "Segmentation avancée basée sur des critères comportementaux et engagement.",
+                "value": 2
+            },
+            {
+                "name": "audience_segmentation_3",
+                "label": "Segmentation dynamique et multi-niveaux avec des intégrations de données.",
+                "value": 3
+            },
+            {
+                "name": "audience_segmentation_4",
+                "label": "Aucun",
+                "value": 4
+            }
+        ]
+    }]
+}
