@@ -1,7 +1,7 @@
 {
   "name": "ceres-hubspot-simulator",
   "version": "0.1.0",
-  "homepage": "https://supaishichikin.github.io/hubspot-simulator-test",
+  "homepage": "https://supaishichikin.github.io/hubspot-simulator-test/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
